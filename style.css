@@ -203,3 +203,26 @@ header {
 .section-3-download img{
     width: 30%;
 }
+@media only screen and (max-width: 600px){
+    .nav{
+        font-size: 0.5rem;
+    }
+    .head h3{
+        font-size: 1.2rem;
+    }
+    .section-1 .section-1-item .items-details p{
+        font-size: 0.7rem;
+    }
+    .section-2-heading{
+        font-size: 1.1rem;
+    }
+    .section-2-item .item-head{
+        font-size: 0.8rem;
+    }
+    .section-2-item .item-subhead{
+        font-size: 0.5rem;
+    }
+    .section-3-image img{
+        width: 200px;
+    }
+}
